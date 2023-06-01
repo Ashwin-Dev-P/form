@@ -1,0 +1,24 @@
+* {
+	margin: 0%;
+	padding: 0%;
+}
+
+.my-m-3 {
+	margin: 3%;
+}
+.my-w-100 {
+	width: 100%;
+}
+
+.my-w-94 {
+	width: 94%;
+}
+
+.my-my-1 {
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+.my-p-3 {
+	padding: 3%;
+}
